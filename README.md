@@ -1,0 +1,2 @@
+# BetterDiscordTroubleshooter
+Better Discord Troubleshooter
